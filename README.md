@@ -12,9 +12,42 @@
 
 I'm interested in **perception-driven autonomous systems** — robots that can **sense the physical world**, build useful spatial representations, and make intelligent decisions.
 
-My hands-on work includes **drone projects, robotics simulation, computer vision, and interactive 3D tools**. I'm also exploring **LiDAR-based perception, SLAM, LLMs/VLMs for robotics, and quantum computing**.
+My co-authored research spans **3D LiDAR object detection, real-time robotic perception, and Vietnamese speech recognition**. I also work on **drones, robotics simulation, computer vision, and interactive 3D tools**, while exploring **SLAM, LLMs/VLMs for robotics, and quantum computing**.
 
 > **Research direction:** bridging geometry, dynamics, visual perception, and learning-based reasoning for more robust autonomous robots.
+
+## 📚 Research publications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Journal%20Articles-2-10283C?style=for-the-badge&labelColor=10283C&color=62D5CA" alt="2 journal articles" />
+  <img src="https://img.shields.io/badge/IEEE%20Conference-1-10283C?style=for-the-badge&labelColor=10283C&color=8FA8EF" alt="1 IEEE conference paper" />
+  <img src="https://img.shields.io/badge/SCImago%202025-Q1-10283C?style=for-the-badge&labelColor=10283C&color=B6A4F5" alt="Journal Q1 in SCImago 2025" />
+</div>
+
+### 📡 LiDAR & 3D perception · Journal articles
+
+**2026 · Object detection / model distillation**  
+**[Attention-Augmented Lightweight 3D LiDAR Object Detection for Rubber Trees via MobilePIXOR and Model Distillation](https://doi.org/10.1007/s13369-026-11720-1)**  
+*Arabian Journal for Science and Engineering* · October 2026 · Co-author  
+[**DOI ↗**](https://doi.org/10.1007/s13369-026-11720-1) `10.1007/s13369-026-11720-1`
+
+**2025 · Multi-task robotic perception**  
+**[Multi-Task Real-Time 3D LiDAR Perception with Attention-Enhanced MobilePIXOR for Obstacle Segmentation and Pedestrian Detection in Autonomous Robots](https://doi.org/10.1007/s13369-025-10568-1)**  
+*Arabian Journal for Science and Engineering* · First published September 2025 · Co-author  
+[**DOI ↗**](https://doi.org/10.1007/s13369-025-10568-1) `10.1007/s13369-025-10568-1`
+
+> **Journal ranking:** *Arabian Journal for Science and Engineering* is **Q1 (SCImago / SJR 2025, Multidisciplinary)** and **Q2 (JCR / Web of Science 2025)**. Quartile rankings describe the **journal**, not the individual papers. [Journal ranking context](https://news.kfupm.edu.sa/news/ajse-keeps-gaining-momentum-after-50-years/361/).
+
+### 🗣️ Speech AI · IEEE conference paper
+
+**2026 · Vietnamese automatic speech recognition**  
+**[Improving Vietnamese Speech Recognition Using Wav2Vec 2.0 with N-Gram Language Model and Beam Search](https://doi.org/10.1109/EEiSS69782.2026.11584547)**  
+*2026 3rd International Conference on Electronic Engineering and Information Systems (EEiSS)* · IEEE · Co-author  
+[**IEEE Xplore ↗**](https://ieeexplore.ieee.org/document/11584547) · [**DOI ↗**](https://doi.org/10.1109/EEiSS69782.2026.11584547)
+
+<sub>See the full publication list on [ORCID](https://orcid.org/0009-0000-7433-1951).</sub>
+
+---
 
 ## 🔭 Research interests
 
