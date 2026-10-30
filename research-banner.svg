@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Minh Nguyen Le robotics perception research banner with LiDAR scanning and neural network illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B12"/><stop offset="60%" stop-color="#0C1421"/><stop offset="100%" stop-color="#101927"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#63E3D4" stop-opacity="0"/><stop offset="100%" stop-color="#63E3D4" stop-opacity=".28"/>
+    </linearGradient>
+    <linearGradient id="thin" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#63E3D4"/><stop offset="80%" stop-color="#8B93F2"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#33465A" stroke-width=".6" opacity=".30"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="panel"><rect x="0" y="0" width="1200" height="350" rx="17"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="1200" height="350" fill="url(#bg)"/>
+    <rect width="1200" height="350" fill="url(#grid)" opacity=".6"/>
+    <path d="M0 0H1200 M0 349H1200" stroke="#283D50" stroke-width="2"/>
+    <path d="M0 50H1200" stroke="#26384A" opacity=".8"/>
+    <g opacity=".52" stroke="#31566A" fill="none" stroke-width="1">
+      <path d="M675 317L930 198 1220 310"/>
+      <path d="M750 333L936 198 1140 338"/>
+      <path d="M840 348L935 198 1050 348"/>
+      <path d="M700 283L1160 283M756 258L1092 258M807 235L1038 235"/>
+    </g>
+    <g font-family="Arial,Helvetica,sans-serif">
+      <rect x="40" y="22" width="8" height="8" fill="#70E4D8" rx="1"/>
+      <text x="59" y="30" font-size="12" fill="#94B0BF" letter-spacing="2.8">RESEARCH NOTES / 001</text>
+      <text x="1151" y="29" fill="#65869A" font-size="11" text-anchor="end" letter-spacing="1.5">BILIZ-NGUYEN</text>
+      <text x="54" y="109" font-size="47" font-weight="700" letter-spacing="-1.6" fill="#F3F7FB">ROBOTICS</text>
+      <text x="54" y="158" font-size="47" font-weight="700" letter-spacing="-1.6" fill="#F3F7FB">&amp; PERCEPTION<tspan fill="#6BDCD2">.</tspan></text>
+      <rect x="56" y="178" width="68" height="2" rx="1" fill="url(#thin)"/>
+      <text x="54" y="209" font-size="17" fill="#B3C3D3" letter-spacing=".1">From sensing the world to intelligent action.</text>
+      <text x="55" y="251" font-size="12" fill="#79E1D3" letter-spacing="1.55">LIDAR  /  3D VISION  /  AUTONOMY</text>
+      <text x="55" y="276" font-size="12" fill="#D5B877" letter-spacing="1.55">QUANTUM  /  LLMS  /  EMBODIED AI</text>
+      <path d="M55 303H601" stroke="#425465" opacity=".65"/>
+      <text x="55" y="325" font-size="11" fill="#7891A4" letter-spacing="1.4">MINH NGUYEN LE</text>
+      <text x="601" y="325" font-size="11" fill="#7891A4" text-anchor="end" letter-spacing="1.4">BUILD · TEST · LEARN</text>
+    </g>
+    <!-- point cloud, rings and scanning wedge -->
+    <g transform="translate(926 170)">
+      <path d="M0 0L164 -116 A201 201 0 0 1 194 48Z" fill="url(#scan)" opacity=".9"/>
+      <circle r="135" fill="none" stroke="#3B6473" stroke-width="1" stroke-dasharray="3 8" opacity=".65"/>
+      <circle r="105" fill="none" stroke="#70E1D6" stroke-width="1.1" stroke-dasharray="80 22 7 22" opacity=".65"/>
+      <circle r="74" fill="none" stroke="#4F7F8C" stroke-width="1.2" opacity=".65"/>
+      <circle r="44" fill="none" stroke="#6EDFD4" stroke-width="1.2" stroke-dasharray="3 7" opacity=".8"/>
+      <line x1="-147" x2="158" y1="0" y2="0" stroke="#526E80" opacity=".32"/>
+      <line x1="0" x2="0" y1="-147" y2="147" stroke="#526E80" opacity=".32"/>
+      <path d="M-130 -13A131 131 0 0 1 -81 -101" stroke="#DDBB7C" fill="none" stroke-width="2" opacity=".8"/>
+      <path d="M85 62A105 105 0 0 1 29 101" stroke="#6FE8DB" fill="none" stroke-width="2" opacity=".8"/>
+      <path d="M0 0L122 -87" stroke="#79E6D9" stroke-width="1.6" filter="url(#glow)"/>
+      <g stroke="#93E6DC" stroke-width="3.5" stroke-linecap="round" opacity=".82">
+        <path d="M-62 -47L62 47M-62 47L62 -47"/>
+      </g>
+      <g fill="#0D1C2A" stroke="#87DDD4" stroke-width="2">
+        <circle cx="-67" cy="-51" r="17"/><circle cx="67" cy="51" r="17"/>
+        <circle cx="-67" cy="51" r="17"/><circle cx="67" cy="-51" r="17"/>
+        <rect x="-31" y="-23" width="62" height="46" rx="11" fill="#192E3C" stroke="#DDEFF1" stroke-width="1.8"/>
+      </g>
+      <circle r="12" fill="#6DDDD2" opacity=".16"/>
+      <circle r="5" fill="#9AF6E8" filter="url(#glow)"/>
+      <path d="M-21 0H21M0 -13V13" stroke="#9AE4DB" stroke-width="1" opacity=".6"/>
+    </g>
+    <g fill="#7BE7DC" opacity=".76">
+      <circle cx="746" cy="92" r="2.2"/><circle cx="791" cy="70" r="2"/><circle cx="805" cy="123" r="2.3"/><circle cx="1002" cy="56" r="2"/><circle cx="1124" cy="91" r="2.2"/><circle cx="1094" cy="257" r="2.1"/><circle cx="779" cy="238" r="2"/><circle cx="1124" cy="195" r="2.2"/><circle cx="1176" cy="139" r="2"/>
+    </g>
+    <g font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.4" fill="#91B1BD">
+      <text x="688" y="76">POINT CLOUD</text><path d="M755 80L802 110" stroke="#456E78" fill="none"/>
+      <text x="1060" y="295">LiDAR / SCAN</text><path d="M1070 279L1056 263" stroke="#4E7A87"/>
+    </g>
+    <g transform="translate(660 289)" stroke="#9F94EC" fill="none" opacity=".8">
+      <path d="M0 18H117M0 36H117" stroke-width="1" opacity=".5"/>
+      <path d="M20 5V49M60 5V49M100 5V49" stroke-width="1" opacity=".55"/>
+      <circle cx="20" cy="18" r="7" stroke-width="1.5"/><circle cx="60" cy="36" r="7" stroke-width="1.5"/><circle cx="100" cy="18" r="7" stroke-width="1.5"/>
+      <path d="M20 25L20 36L60 36M60 29V18L100 18" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
