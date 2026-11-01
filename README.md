@@ -1,11 +1,12 @@
-<!-- GitHub profile README: robotics, spatial perception and AI -->
+<!-- GitHub profile README: pixel robotics lab -->
 <div align="center">
-  <img src="./assets/hero-radar.svg" alt="Animated robotics research banner: rotating LiDAR scan, point cloud, drone, and AI themes" width="100%" />
+  <img src="./assets/hero-radar.svg" alt="Pixel-art robotics and perception lab header with an animated LiDAR point-cloud scanner" width="100%" />
 
-  <a href="https://github.com/biliz-nguyen?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-10283C?style=for-the-badge&labelColor=10283C&color=55CFC4" alt="Explore repositories"></a>
-  <a href="https://orcid.org/0009-0000-7433-1951"><img src="https://img.shields.io/badge/ORCID-Research_Profile-10283C?style=for-the-badge&labelColor=10283C&color=98C875" alt="ORCID research profile"></a>
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1100&color=51CFC7&center=true&vCenter=true&width=950&height=48&lines=Robotics+%7C+LiDAR+%7C+Computer+Vision;Autonomous+Systems+%7C+SLAM+%7C+3D+Perception;Exploring+LLMs%2C+VLMs+and+Quantum+Computing" alt="Animated typing text with research topics" />
+  <p>
+    <a href="https://github.com/biliz-nguyen?tab=repositories"><img src="./assets/nav-projects.svg" alt="View projects" width="185" /></a>
+    <a href="https://github.com/biliz-nguyen/SPACE_PLOT"><img src="./assets/nav-space-plot.svg" alt="Explore SPACE_PLOT" width="185" /></a>
+    <a href="https://orcid.org/0009-0000-7433-1951"><img src="./assets/nav-orcid.svg" alt="Read research publications on ORCID" width="185" /></a>
+  </p>
 </div>
 
 ## 👋 Hello, I'm Minh
